@@ -1,1 +1,0 @@
-# common-mechanism-of-fungal-sRNA
