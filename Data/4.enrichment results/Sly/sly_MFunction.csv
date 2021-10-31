@@ -1,0 +1,7 @@
+#term ID,term description,observed gene count,background gene count,strength,false discovery rate,matching proteins in your network (IDs),matching proteins in your network (labels)
+GO:0005524,ATP binding,3,39,1.13,0.0074,4081.Solyc07g056140.2.1 4081.Solyc07g065840.2.1 4081.Solyc08g043170.2.1,LOC543968 HSC80 PRO2
+GO:0032555,purine ribonucleotide binding,4,47,1.18,0.0074,4081.Solyc05g023800.2.1 4081.Solyc07g056140.2.1 4081.Solyc07g065840.2.1 4081.Solyc08g043170.2.1,RAN1 LOC543968 HSC80 PRO2
+GO:0035639,purine ribonucleoside triphosphate binding,4,47,1.18,0.0074,4081.Solyc05g023800.2.1 4081.Solyc07g056140.2.1 4081.Solyc07g065840.2.1 4081.Solyc08g043170.2.1,RAN1 LOC543968 HSC80 PRO2
+GO:0008144,drug binding,3,53,1.0,0.0112,4081.Solyc07g056140.2.1 4081.Solyc07g065840.2.1 4081.Solyc08g043170.2.1,LOC543968 HSC80 PRO2
+GO:0016772,transferase activity transferring phosphorus-containing groups,2,17,1.32,0.0135,4081.Solyc07g056140.2.1 4081.Solyc08g043170.2.1,LOC543968 PRO2
+
